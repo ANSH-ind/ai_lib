@@ -1,6 +1,6 @@
 <h1>welcome to ml utils</h1>
 
-<span stype="color:white">devlopped by ansh raj</span>
+<span stype="color:blue">devlopped by ansh raj</span>
 
 **python version** 
 
