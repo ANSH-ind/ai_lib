@@ -41,7 +41,7 @@ pip install ml_utils
 
 ***see below the performance of our softmax***
 
-<img src = "https://res.cloudinary.com/dbmcddwjd/image/upload/v1783966472/Screenshot_2026-07-13-23-29-34-996_ru.iiec.pydroid3_tlwlhp.jpg", width = "200">
+<img src = "https://res.cloudinary.com/dbmcddwjd/image/upload/v1783966472/Screenshot_2026-07-13-23-29-34-996_ru.iiec.pydroid3_tlwlhp.jpg" width = "200">
 
 
 <h3>languages use for build different-diffrent function and classes</h3>
