@@ -5,11 +5,11 @@
 
 **total algrithom and functions**
 
--softmax
--ReLU
--sigmoid
--BCEWithLossLogits
--attention
+- softmax
+- ReLU
+- sigmoid
+- BCEWithLossLogits
+- attention
 
 >note: may be some function are not available this is because they in development zone, after they are tested i publish to my utils_library so that you can use
 
