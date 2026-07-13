@@ -1,3 +1,5 @@
+<div align = "center">
+
 <h1>welcome to ml utils</h1>
 
 <span stype="color:blue">devlopped by ansh raj</span>
@@ -84,3 +86,4 @@ pip install ml_utils
   SOFTWARE.
 
 </details>
+</div>
