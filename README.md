@@ -1,4 +1,6 @@
+<div align = "center">
 <h1>welcome to ml utils</h1>
+</div>
 
 
 ![License](https://img.shields.io/badge/license-MIT-green)
