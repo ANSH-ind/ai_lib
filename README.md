@@ -1,5 +1,5 @@
 <h1>welcome to ml utils</h1>
->note - this library has been totally built in android environment with the help of termux, pydroid, cxxdroid, and guthub virtual machine for compiling the library for all os, **like ubuntu, window, android, etc...**
+>note - this library has been totally built in android environment with the help of termux, pydroid, cxxdroid, and guthub virtual machine for compiling the library for all os, like ubuntu, window, android, etc...
 
 [devloper](https://anshstudios.pages.dev/portfolio)
 
