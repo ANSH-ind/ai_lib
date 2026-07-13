@@ -43,8 +43,10 @@ pip install ml_utils
 **built on core formula**
 
 *flow**
+
 **marmaid
 graph LR
+
 A[input] --> B[cythone kernal] --> C[output]
 
 ***see below the performance of our softmax***
