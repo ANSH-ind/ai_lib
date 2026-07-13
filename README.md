@@ -2,6 +2,24 @@
 
 >note - this library has been totally built in android environment with the help of termux, pydroid, cxxdroid, and guthub virtual machine for compiling the library for all os, like ubuntu, window, android, etc...
 
+
+**total algrithom and functions**
+
+-softmax
+-ReLU
+-sigmoid
+-BCEWithLossLogits
+-attention
+
+>note: may be some function are not available this is because they in development zone, after they are tested i publish to my utils_library so that you can use
+
+- [x] softmax
+- [ ] ReLU
+- [ ] sigmoid
+- [ ] BCEWithLossLogits
+- [ ] attention
+
+
 <h3>visit developer website</h3>
 
 [devloper](https://anshstudios.pages.dev/portfolio)
