@@ -3,3 +3,10 @@
 **this library is build in cython for well optimize ai & ml algorithm and function like ReLU, Softmax, BCEWithLossLogits, etc**
 
 *this library is mentioned by ansh raj*
+
+- Email : ansh0000000001@gmail.com
+- author: ansh raj
+- documantation: https://anshstudios.pages.dev/ai_lib
+- portfolio: https://anshstudios.pages.dev/portfolio
+- core language: c/cython
+- for : ai & ml
