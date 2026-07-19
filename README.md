@@ -12,3 +12,9 @@
 - for : ai & ml
 
 [documentation](https://anshstudios.pages.dev/ai_lib)
+
+#installination
+
+```bash
+pip install ai_lib
+```
