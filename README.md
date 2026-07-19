@@ -13,8 +13,20 @@
 
 [documentation](https://anshstudios.pages.dev/ai_lib)
 
-#installination
+<h3>installination</h3>
 
 ```bash
 pip install ai_lib
+```
+
+<h2>user guide</h2>
+
+```python
+from ai_lib import ReLU
+import numpy as np
+
+array = np.array([-1.0, 1.3, 0.2])
+ReLU(array)
+print(array)
+#output: [0,1.3, 0.2]
 ```
